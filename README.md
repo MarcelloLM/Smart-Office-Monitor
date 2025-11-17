@@ -68,4 +68,4 @@ A escolha pelo HTTP se deve à simplicidade e robustez para envio de dados telem
 
 
 ## 📸 Diagrama do Projeto
-![Imagem do Circuito no Wokwi](circuito.png)
+![Imagem do Circuito no Wokwi]([circuito.png](https://github.com/MarcelloLM/Smart-Office-Monitor/blob/main/diagrama.png))
