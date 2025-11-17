@@ -64,7 +64,7 @@ A escolha pelo HTTP se deve à simplicidade e robustez para envio de dados telem
 ---
 
 ## 🎥 Link do Vídeo Explicativo
-[INSIRA O LINK DO YOUTUBE AQUI]
+[[Smart Office Monitor]](https://youtu.be/PigqiDKTyao)
 
 
 ## 📸 Diagrama do Projeto
