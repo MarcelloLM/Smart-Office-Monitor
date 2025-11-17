@@ -65,3 +65,7 @@ A escolha pelo HTTP se deve à simplicidade e robustez para envio de dados telem
 
 ## 🎥 Link do Vídeo Explicativo
 [INSIRA O LINK DO YOUTUBE AQUI]
+
+
+## 📸 Diagrama do Projeto
+![Imagem do Circuito no Wokwi](circuito.png)
